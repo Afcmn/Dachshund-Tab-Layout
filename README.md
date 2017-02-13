@@ -37,7 +37,7 @@ Add the JitPack repository to your build file
 Add the dependency
 ```gradle
 	dependencies {
-		compile 'com.github.Andy671:Dachshund-Tab-Layout:v0.2.0'
+		compile 'com.github.Andy671:Dachshund-Tab-Layout:v0.3.0'
 	}
 ```
 
